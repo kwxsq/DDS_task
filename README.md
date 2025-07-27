@@ -48,6 +48,7 @@
 ![image alt](https://github.com/kwxsq/DDS_task/blob/main/admin_panel.png?raw=true)
 
 Особенности реализации
+
     Использован Django ORM для работы с базой данных SQLite
     Фильтрация реализована с помощью django-filter
     Логические зависимости между типами, категориями и подкатегориями обеспечены на уровне модели и формы
